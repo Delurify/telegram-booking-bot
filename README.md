@@ -54,9 +54,6 @@ This is a course project for creating a telegram booking bot utilizing Java.
 ## Flow Diagram of the requirements
 ![image](https://user-images.githubusercontent.com/80701138/201608693-4214f3a5-8e68-448a-9ce8-4ed0fb33ed03.png)
 
-## User manual for installing your application on Heroku Server
-## User manual/guideline for testing the system
-## Result/Output (Screenshot of the output)
 ## Use Case Diagram
 ![image](https://user-images.githubusercontent.com/80701138/201608575-185ea5c5-9f8e-4733-a693-6c26806a3b29.png)
 
