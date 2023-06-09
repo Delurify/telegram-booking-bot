@@ -49,7 +49,7 @@
 </table>
 
 ## Introduction
-This is a course project for creating a telegram booking bot utilizing Java. 
+This is a course project for creating a telegram booking bot utilizing Java. It involves allowing users to book a room from UUM which also includes crud. Unfortunately, after project submission the server for this bot is closed. P.S. this is not the original repository but a cloned one so there are not a lot of commits.
 
 ## Flow Diagram of the requirements
 ![image](https://user-images.githubusercontent.com/80701138/201608693-4214f3a5-8e68-448a-9ce8-4ed0fb33ed03.png)
